@@ -109,6 +109,7 @@
   },
   "defaultProject": "my-app-2",
   "cli": {
+    "analytics": false,
     "packageManager": "npm"
   }
 }
